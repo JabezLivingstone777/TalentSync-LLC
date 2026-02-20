@@ -115,7 +115,7 @@ const ContactUsPage = () => {
             <div className="flex items-center justify-center mb-4">
               <MapPin className="w-10 h-10 text-slate-700" />
             </div>
-            <p className="font-semibold">30 N Gould St Ste. NSheridan, WY 82801</p>
+            <p className="font-semibold">30 N Gould St Ste. NSheridan, WY 82801,United States</p>
           </div>
         </div>
       </div>
@@ -124,7 +124,7 @@ const ContactUsPage = () => {
       <div className="px-4 max-w-5xl mx-auto mb-16">
         <iframe
           title="Company Location"
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.523415337262!2d78.37419067493587!3d17.434644583460557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93cfd19ae321%3A0x20f3cd74ba70af5d!2sOrbit%20by%20Auro%20Realty%2C%20Hyderabad!5e0!3m2!1sen!2sin!4v1770303177001!5m2!1sen!2sin"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2831.158833754959!2d-106.95751052393328!3d44.79795157107083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5335fabe8182314f%3A0x16eb18eacf1e0aff!2s30%20N%20Gould%20St%20ste%20r%2C%20Sheridan%2C%20WY%2082801%2C%20USA!5e0!3m2!1sen!2sin!4v1771587044129!5m2!1sen!2sin"
           className="w-full h-80 rounded-lg shadow-lg"
           allowFullScreen
           loading="lazy"
